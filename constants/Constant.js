@@ -1,0 +1,19 @@
+export const VERSION = "1.3.0";
+export const MAX_WIDTH = 768;
+export const SELECT = "select";
+export const ASYNC_SELECT = "async";
+export const BASE_URL = "https://darktechteam.com/wandernuapi/";
+export const DROPDOWN_OPTIONS_LIMIT = 20;
+
+export const DATE_FORMAT = "yyyy-MM-dd";
+export const DATE_NAME_FORMATE = "EEEE, dd MMM, yyyy";
+export const DATE_NAME_FORMATE_SHORT = "EE, dd MMM";
+export const DATETIME_NAME_FORMATE = "dd MMM, yyyy, hh:mm a";
+export const DATETIME_FORMAT = "yyyy-MM-dd'T'HH:mm:ss";
+export const DATETIME_PAYLOAD_FORMAT = "yyyy-MM-dd HH:mm:ss";
+export const PRINTING_DATETIME_FORMAT = "dd-MM-yyyy' , 'hh:mm a";
+export const DETAILS_PAGE_DATE_FORMAT = "dd-MM-yyyy' , 'hh:mm a";
+export const LIST_DATA_DATE_FORMAT = "dd-MM-yyyy";
+export const DETAILS_PAGE_FOOTER_DATETIME_FORMAT = "dd-MMM-yyyy', 'hh:mm:ss a";
+export const TIME_FORMAT = "hh:mm a";
+export const LIST_DATA_DATETIME_FORMAT = "dd-MM-yyyy' 'hh:mm a";
